@@ -1,0 +1,65 @@
+#mancer
+
+Enthusiasm tonic (alch 2): temporary increase in strength
+Skeleton reinforcement (surg 3, mech 2): increases strength
+Suggestibility serum (alch 3): increases loyalty
+Adrenal release valve (alch 2, surg 2, mach 1): temporary increase in strength
+Invisibility field (cry 5, mach 3): turn invisible!
+Soul jar (necro 3, mach 2, cry 2): energy source
+Rebreather (mach 1, alch 1): protection from gas attacks
+Terror gas (alch 2, psi 1): terrifies all in area
+Sleep gas (alch 3): causes sleep in area
+Poison gas (alch 1): area attack vs health
+Psi blast (psi 3): attack vs mind
+Dominate (psi 5): attack to control vs mind
+Net flinger (mech 2): attack to disable vs strength
+Immobilizing goo cannon (alch 3, mech 2): attack to disable vs strength
+Mind reading (psi 3): get information from mind, vs mind
+Conditioning chair (psi 2, mech 2): control vs mind of prisoners
+Lock spider (mech 3): opens locks, chests
+Lock acid (alch 2): dissolves locks, chests
+Brain dissection (surg 3, psi 3): get information from mind
+Exploding collar (machine 1): increases loyalty
+Robot claw (machine 1): weapon
+Robot limb (machine 2): extra attach pt
+Chainsaw (mach 2): weapon
+Robot construction (mach 3): can build robots
+Brain implant (psi 2, surg 4): increases loyalty
+Flesh brain (surg 4, mech 3, psi 2): implant human brain into robot
+Surgery (surg 1): heals
+Grafting (surg 2): can attach simple things like skin
+Organ integration (surg 3): can implant new organs
+Neural integration (surg 4): can attach new limbs, etc
+Cyborgification (surg 2): may add mechanical components
+Neural surgery (surg 5): may add extra brain matter
+Immune system engineering (surg 5): reduce stress from surgery
+Power crystal (cry 1, mech 3): power source for robots
+Crystal heart (cry 2, surg 3): power source for living beings
+Mental stabilizer (cry 2, psi 2): more mind, less loyalty
+Loyalty conditioning (psi 1): increased loyalty of constructs
+Aura device (psi 3, cry 2): increased charisma
+Terror emitter (psi 1, cry 1): decreased charisma
+Ray gun (cry 4, mech 3): weapon
+Robot wing (mach 4): wings!
+Bio-grafting (surg 3, mach 3): add bio components to machine
+Whispers of the grave (necro 1): terrifies target
+Laser eyes (cry 4, surg 4): weapon
+Metal scales (mech 2): defence for robots
+Powered armor (mech 3): defence for bios
+Re-animation (necro 3): reanimates dead
+Possession (necro 2): temporarily possessed target
+Spirit binding (necro 4): binds dead spirit into robot
+Fire oil (alch 1): create bottle of exploding oil
+Healing potion (alch 3): what it says on the tin
+Flamethrower (mech 2, alch 2): weapon
+Poison darts (mech 1, alch 3): weapon vs health
+Combustion engine (mech 1, alch 1): power source
+Artificial blood (surg 4, alch 4): increased health
+Necro-ampoule (necro 4, alch 2): turns target undead
+Spirit unbinding (necro 4, cry 2): deadly attack vs will
+Staff of command (necro 5, cry 5, psi 5): mind controls target
+Machine brain (cry 5, surg 5, mech 5): brain replaced with machine duplicate which can be cloned
+Mind transfer (surg 5, psi 5, alch 5): transfer consciousness into other body
+Energy shield (mech 3, cry 4): defense
+Genetic engineering (surg 4, alch 4): may breed more of a given bio-construct
+Repair scuttlers (mech 5): repairs machines/machine components

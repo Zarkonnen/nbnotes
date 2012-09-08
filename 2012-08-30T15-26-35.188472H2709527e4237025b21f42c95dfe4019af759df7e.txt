@@ -1,0 +1,1 @@
+#mancer small fight/puzzle enc maps where all units move independently

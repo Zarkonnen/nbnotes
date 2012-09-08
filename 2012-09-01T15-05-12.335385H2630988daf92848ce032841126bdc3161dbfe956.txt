@@ -1,0 +1,1 @@
+#nb todo: crash if note too long to be displayed
